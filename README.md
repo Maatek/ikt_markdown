@@ -1,5 +1,5 @@
 # Markdown vježba
-Ovo je dokument :memo: koji prezentira moj c++ kod :smile:
+Ovo je dokument :memo: koji prezentira moj ```c++``` kod :smile:
 ## Program
 ```c++
 #include <iostream>
