@@ -1,4 +1,3 @@
-# ikt_markdown
 # Markdown vježba
 Ovo je dokument :memo: koji prezentira moj c++ kod :smile:
 ## Program
@@ -20,9 +19,13 @@ int main() {
 - Pokrenite
 ## TODO
 Todo lista za nadopunu programa:
+
 [x] Ispisati poruku za unos broja
+
 [x] Omogućiti unos broja
+
 [ ] Provjeriti je li broj troznamenkast
+
 [ ] Ispisati sumu znamenki broja
 
 
