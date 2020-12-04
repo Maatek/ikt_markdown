@@ -1,6 +1,6 @@
-# Markdown vježba
+# **Markdown vježba**
 Ovo je dokument :memo: koji prezentira moj ```c++``` kod :smile:
-## Program
+## **Program**
 ```c++
 #include <iostream>
 using namespace std;
@@ -15,12 +15,12 @@ int main() {
     return 0;
 }
 ```
-## Pokretanje programa
+## **Pokretanje programa**
 - Preuzmite [DevCpp](https://sourceforge.net/projects/orwelldevcpp/)
 - Kreirajte novu datoteku i kopirajte kod unutra
 - Prevedite
 - Pokrenite
-## TODO
+## **TODO**
 Todo lista za nadopunu programa:
 
  - [x] Ispisati poruku za unos broja
@@ -32,4 +32,4 @@ Todo lista za nadopunu programa:
  - [ ] Ispisati sumu znamenki broja
 
 
-[Povratak na vrh](#Markdown-vježba)
+[Povratak na vrh](#**Markdown-vježba**)
